@@ -1,9 +1,9 @@
 # git-playground
 # Configuration du comportement de Push par défaut dans Git
 
-Ce projet documente la résolution du défi LabEx consistant à configurer Git pour qu'il pousse automatiquement la branche locale actuelle vers une branche distante portant exactement le même nom, sans avoir à le spécifier explicitement à chaque fois.
+<!-- Ce projet documente la résolution du défi LabEx consistant à configurer Git pour qu'il pousse automatiquement la branche locale actuelle vers une branche distante portant exactement le même nom, sans avoir à le spécifier explicitement à chaque fois.
 
----
+--- -->
 
 ## 📝 Contexte du Défi
 
